@@ -2,9 +2,9 @@
   "name": "phone-book",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "todo.server.js",
   "scripts": {
-  "start": "nodemon server-7.js",
+  "start": "nodemon todo-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
